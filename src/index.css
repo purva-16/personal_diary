@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,400;0,600;1,400&family=Playfair+Display:wght@400;600&family=Patrick+Hand&family=Indie+Flower&family=Architects+Daughter&family=Kalam:wght@300;400&family=Caveat:wght@400;600;700&family=Libre+Baskerville:wght@400;700&family=Fascinate&display=swap');
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #ffffff;
+  min-height: 100vh;
+}
